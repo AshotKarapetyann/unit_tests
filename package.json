@@ -1,0 +1,18 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Unit and integration tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ashot Karapetyan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
